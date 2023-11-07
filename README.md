@@ -1,4 +1,4 @@
-### Buenas buenas  👋   Soy Maria ❤️ 
+## Buenas buenas  👋   Soy Maria ❤️ 
 
 <br>
 
@@ -11,7 +11,11 @@ Base de datos SQL, MySQL, Workbench, phpMyAdmin.
 
 <br>
 
-<b>Nuevos conocimientos adquiridos:</b><br><br>
+
+#### Nuevos conocimientos adquiridos:
+<br>
+
+
 <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="25px" style="display: inline-block;"/> JavaScript<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="25px" style="display: inline-block;"/> Python<br>
 <img src="https://img-blog.csdnimg.cn/20200227095030504.png" width="25px" style="display: inline-block;"/> Java<br>
