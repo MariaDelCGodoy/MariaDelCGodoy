@@ -3,7 +3,8 @@
 <br>
 
 -  Actualmente trabajo en una entidad bancaria, desde Agosto de 2005<br>
-Me desempeño como Analista de Operaciones en el Sector Transferencias y Canales. Conocimientos de Normativas del BCRA. Conciliacion de cuentas e inventarios.<br>
+Me desempeño como Analista de Operaciones en el Sector Transferencias y Canales.<br>
+Conocimientos de Normativas del BCRA. Conciliacion de cuentas e inventarios.<br>
 Lenguajes Python, Java, PHP.<br>
 Base de datos SQL, MySQL, Workbench, phpMyAdmin.<br>
 <br>
