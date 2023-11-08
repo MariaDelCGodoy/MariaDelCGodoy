@@ -14,7 +14,7 @@ Base de datos SQL, MySQL, Workbench, phpMyAdmin.<br>
 
 
 <h4 align="left">Nuevos conocimientos adquiridos:</h4>
- 
+ <br>
  <p align="left">
    
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
