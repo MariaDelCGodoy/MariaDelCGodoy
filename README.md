@@ -9,7 +9,7 @@ Lenguajes Python, Java, PHP.<br>
 Base de datos SQL, MySQL, Workbench, phpMyAdmin.<br>
 <br>
 
-- Estoy cursando la Tecnicatura Universitaria en programación en la UTN.
+- Técnica Universitaria en programación - UTN.
 <br><br>
 
 
